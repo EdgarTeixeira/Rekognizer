@@ -1,0 +1,2 @@
+['remote "datasets"']
+url = s3://rekognizer-datasets
