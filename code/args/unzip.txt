@@ -1,0 +1,4 @@
+data/face_detection/wider_face_split.zip data/face_detection
+data/face_detection/WIDER_test.zip data/face_detection
+data/face_detection/WIDER_val.zip data/face_detection
+data/face_detection/WIDER_train.zip data/face_detection
